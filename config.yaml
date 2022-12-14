@@ -1,0 +1,5 @@
+default_context:
+    author: Alexander Rashed
+    github_handle: alexrashed
+    api_name: Christmas Countdown
+    openapi_url: https://raw.githubusercontent.com/christmas-countdown/api/main/openapi.json
